@@ -1,0 +1,3 @@
+/workspaces/Testing_C/build/CMakeFiles/result.dir
+/workspaces/Testing_C/build/CMakeFiles/edit_cache.dir
+/workspaces/Testing_C/build/CMakeFiles/rebuild_cache.dir

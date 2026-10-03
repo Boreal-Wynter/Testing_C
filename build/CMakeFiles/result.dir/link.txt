@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/result.dir/main.c.o -o result 
